@@ -9,17 +9,17 @@ const Footer = () => {
 				<div className="left">
 					<div className="socials">
 						<Link
-							to={'https://github.com/GitsOfVivek'}
+							to={'https://github.com/triggerdeva'}
 							target={'_blank'}>
 							<FaGithub />
 						</Link>
 						<Link
-							to={'https://twitter.com/V1V3K__'}
+							to={'https://twitter.com/Triggerdeva2'}
 							target={'_blank'}>
 							<FaTwitter />
 						</Link>
 						<Link
-							to={'https://www.linkedin.com/in/vivek9999/'}
+							to={'https://www.linkedin.com/in/devendra-meshram-54a6631b9/'}
 							target={'_blank'}>
 							<FaLinkedin />
 						</Link>
